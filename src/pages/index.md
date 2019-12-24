@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: test titel landingpage
+title: Mitchell kijk! Mooie website he!
 image: /img/home-jumbotron.jpg
 heading: Test titel
-subheading: test
+subheading: 'En dat allemaal zonder een database! '
 mainpitch:
   title: Why Kaldi
   description: >
